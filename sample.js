@@ -1,6 +1,3 @@
 const {sum, multiplicaiton} = require('./index.js')
-let fs = require('fs')
-
-fs.unlink('index1.js',function(err, data){
-    console.log('deltedd')
-})
+console.log(sum(1,2))
+console.log(multiplicaiton(2, 3))
