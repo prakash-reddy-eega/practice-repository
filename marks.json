@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Prakash",
+        "subjects": [
+            {
+                "sub_name": "Telugu",
+                "marks": 34
+            },
+            {
+                "sub_name": "Hindi",
+                "marks": 23
+            },
+            {
+                "sub_name": "English",
+                "marks": 9
+            },
+            {
+                "sub_name": "Maths",
+                "marks": 34
+            },{
+                "sub_name": "Science",
+                "marks": 87
+            },{
+                "sub_name": "Social",
+                "marks": 90
+            },
+            {
+                "sub_name": "history",
+                "marks": 87
+            }
+        ]
+        
+    },
+    {
+        "name": "Ravi",
+        "subjects": [
+            {
+                "sub_name": "Telugu",
+                "marks": 65
+            },
+            {
+                "sub_name": "Hindi",
+                "marks": 66
+            },
+            {
+                "sub_name": "English",
+                "marks": 78
+            },
+            {
+                "sub_name": "Maths",
+                "marks": 45
+            },{
+                "sub_name": "Science",
+                "marks": 87
+            },{
+                "sub_name": "Social",
+                "marks": 12
+            },
+            {
+                "sub_name": "history",
+                "marks": 87
+            }
+        ]
+    },
+    {
+        "name": "Neeraj",
+        "subjects": [
+            {
+                "sub_name": "Telugu",
+                "marks": 76
+            },
+            {
+                "sub_name": "Hindi",
+                "marks": 23
+            },
+            {
+                "sub_name": "English",
+                "marks": 0
+            },
+            {
+                "sub_name": "Maths",
+                "marks": 34
+            },{
+                "sub_name": "Science",
+                "marks": 76
+            },{
+                "sub_name": "Social",
+                "marks": 23
+            },
+            {
+                "sub_name": "history",
+                "marks": 87
+            }
+        ]
+    },
+    {
+        "name": "Indhira",
+        "subjects": [
+            {
+                "sub_name": "Telugu",
+                "marks": 89
+            },
+            {
+                "sub_name": "Hindi",
+                "marks": 25
+            },
+            {
+                "sub_name": "English",
+                "marks": 93
+            },
+            {
+                "sub_name": "Maths",
+                "marks": 75
+            },{
+                "sub_name": "Science",
+                "marks": 56
+            },{
+                "sub_name": "Social",
+                "marks": 34
+            },{
+                "sub_name": "history",
+                "marks": 87
+            }
+        ]
+    },
+    {
+        "name": "Gopi",
+        "subjects": [
+            {
+                "sub_name": "Telugu",
+                "marks": 73
+            },
+            {
+                "sub_name": "Hindi",
+                "marks": 89
+            },
+            {
+                "sub_name": "English",
+                "marks": 63
+            },
+            {
+                "sub_name": "Maths",
+                "marks": 8
+            },{
+                "sub_name": "Science",
+                "marks": 76
+            },{
+                "sub_name": "Social",
+                "marks": 39
+            },{
+                "sub_name": "history",
+                "marks": 87
+            }
+        ]
+    }
+]
